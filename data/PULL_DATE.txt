@@ -1,0 +1,1 @@
+Pulled 2026-11-14 from https://data.sec.gov/api/xbrl/companyfacts/
